@@ -1,4 +1,6 @@
-######################
-## EPiServer Files
-######################
+.env/
+.venv/
+env/
+venv/
+myenv/
 *License.config
